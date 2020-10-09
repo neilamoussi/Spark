@@ -1,4 +1,4 @@
-# TP3: SPARK 
+# SPARK 
 Veuillez procéder par $mvn package avant l'execution du code .
 # Activité 2
 
